@@ -54,3 +54,5 @@ git push -u origin master
 
 * `git commit -m"커맨트"`
 * `git push origin hykim6856` 작업자명 꼭 입력하기
+
+* 노션주소 https://www.notion.so/c9bb25c2ee934a6c94ae3d8c4552a962?v=1a2b4ea5de4c4efd928eb8092b5de626
